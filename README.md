@@ -12,7 +12,6 @@ The recommendations are based on genre and description similarity.
 1. Open the Jupyter notebook: `movie_tv_recommendation_system.ipynb`
 2. Run all cells
 3. Call the function:
-```python
 recommend("Kota Factory")
 
 🛠️ Technologies Used
