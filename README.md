@@ -26,12 +26,12 @@ recommend("Kota Factory")
 
 - Netflix Movies and TV Shows Dataset
 - Contains information such as:
-    *Title
-    *Type (Movie / TV Show)
-    *Genre
-    *Description
-    *Release year
-    *Rating
+  *Title
+  *Type (Movie / TV Show)
+  *Genre
+  *Description
+  *Release year
+  *Rating
 
 ⚙️ How the Recommendation System Works
 
