@@ -26,17 +26,17 @@ recommend("Kota Factory")
 
 - Netflix Movies and TV Shows Dataset
 - Contains information such as:
-  *Title
-  *Type (Movie / TV Show)
-  *Genre
-  *Description
-  *Release year
-  *Rating
+*Title
+*Type (Movie / TV Show)
+*Genre
+*Description
+*Release year
+*Rating
 
 ⚙️ How the Recommendation System Works
 
-1.Clean and preprocess the dataset
-2.Combine genre and description into a single text feature
-3.Convert text into numerical vectors using TF-IDF
-4.Compute similarity between titles using cosine similarity
-5.Recommend top similar movies or TV shows
+*Clean and preprocess the dataset
+*Combine genre and description into a single text feature
+*Convert text into numerical vectors using TF-IDF
+*Compute similarity between titles using cosine similarity
+*Recommend top similar movies or TV shows
